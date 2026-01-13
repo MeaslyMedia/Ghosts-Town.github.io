@@ -20,7 +20,7 @@
   <itunes:name>MeaslyMedia</itunes:name>
   <itunes:email>measlymedia@proton.me</itunes:email>
   </itunes:owner>
-  <itunes:image href="https://github.com/MeaslyMedia/Ghosts-Town/blob/main/GT%20poster%20design%20main.jpg"/>
+  <itunes:image href="https://measlymedia.github.io/GhostsTown/GTpodcastcoverart.jpg"/>
 
 <itunes:category text="Fiction"> <itunes:category text="Comedy Fiction" /></itunes:category>
 <itunes:category text="Comedy"> <itunes:category text="Improv" /></itunes:category>
@@ -74,7 +74,7 @@ Complete <a href=”https://www.youtube.com/watch?v=wIyI69bQl5c&list=PL_BRSNtrU-
 </p>
 ]]>
 </description>
-<itunes:image href="https://github.com/MeaslyMedia/Ghosts-Town/blob/main/GT%20poster%20design%20main.jpg"/>
+<itunes:image href="https://measlymedia.github.io/GhostsTown/GTpodcastcoverart.jpg"/>
 <enclosure url="https://measlymedia.github.io/GhostsTown/mp3s/GTep1draft3.mp3" length="5444444444" type="audio/mpeg"/>
 <itunes:duration>01:28:58</itunes:duration>
 <itunes:season>1</itunes:season>
@@ -91,6 +91,7 @@ https://measlymedia.github.io/GhostsTown/mp3s/GTep1draft3.mp3
 
 </channel>
 </rss>
+
 
 
 
