@@ -75,8 +75,8 @@ Complete <a href=”https://www.youtube.com/watch?v=wIyI69bQl5c&list=PL_BRSNtrU-
 ]]>
 </description>
 <itunes:image href="https://measlymedia.github.io/GhostsTown/GTpodcastcoverart.jpg"/>
-<enclosure url="https://measlymedia.github.io/GhostsTown/mp3s/GTep1draft3.mp3" length="5444444444" type="audio/mpeg"/>
-<itunes:duration>01:28:58</itunes:duration>
+<enclosure url="https://measlymedia.github.io/GhostsTown/mp3s/GTep1draft3.mp3" type="audio/mpeg"/>
+<itunes:duration>133</itunes:duration>
 <itunes:season>1</itunes:season>
 <itunes:episode>1</itunes:episode>
 <itunes:episodeType>full</itunes:episodeType>
@@ -91,6 +91,7 @@ https://measlymedia.github.io/GhostsTown/mp3s/GTep1draft3.mp3
 
 </channel>
 </rss>
+
 
 
 
