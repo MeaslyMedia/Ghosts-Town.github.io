@@ -6,7 +6,7 @@
 <title>Ghosts' Town</title>
 <link>https://github.com/MeaslyMedia/Ghosts-Town</link>
 <language>en-us</language>
-<atom:link href="https://github.com/MeaslyMedia/Ghosts-Town" rel="self" type="application/rss+xml"/>
+<atom:link href="https://github.com/MeaslyMedia/Ghosts-Town/feed.xml" rel="self" type="application/rss+xml"/>
 <copyright>MeaslyMedia</copyright>
 <itunes:subtitle>PODCAST SUBTITLE</itunes:subtitle>
 <itunes:author>MeaslyMedia</itunes:author>
@@ -82,6 +82,7 @@ https://github.com/MeaslyMedia/Ghosts-Town/blob/main/mp3s/GTep1draft3.mp3
 
 </channel>
 </rss>
+
 
 
 
