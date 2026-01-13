@@ -24,6 +24,7 @@
 
 <itunes:category text="Fiction"> <itunes:category text="Comedy Fiction" /></itunes:category>
 <itunes:category text="Comedy"> <itunes:category text="Improv" /></itunes:category>
+<itunes:category text="Leisure"> <itunes:category text="Games" /></itunes:category>
 <itunes:explicit>yes</itunes:explicit>
 
 
@@ -90,6 +91,7 @@ https://measlymedia.github.io/GhostsTown/mp3s/GTep1draft3.mp3
 
 </channel>
 </rss>
+
 
 
 
