@@ -32,7 +32,22 @@
 </itunes:subtitle>
 <itunes:summary>
   <![CDATA[
- <p>
+Stu Parker makes a music/business deal in the woods, Valorie Thorne meets her new boss, and Zeke Arthurs has a normal day at work. All three find themself in the center of an unusual murder scene, made stranger since the victim was already dead.
+
+Content warnings:
+Cursing
+Drugs
+Murder
+Gore
+Mentions of Sex
+
+Full vod: https://www.youtube.com/watch?v=JutU7U3_yms
+Complete Surf & Turf playlist (the previous campaign): https://www.youtube.com/watch?v=wIyI69bQl5c&list=PL_BRSNtrU-0hKsJNDPr0PsjiuZfgJ3N2C
+]]> 
+</itunes:summary>
+  <description>
+<![CDATA[
+<p>
 Stu Parker makes a music/business deal in the woods, Valorie Thorne meets her new boss, and Zeke Arthurs has a normal day at work. All three find themself in the center of an unusual murder scene, made stranger since the victim was already dead.
 </p>
 <p>
@@ -50,20 +65,6 @@ Content warnings:<ul>
 <p>
 Complete <a href=”https://www.youtube.com/watch?v=wIyI69bQl5c&list=PL_BRSNtrU-0hKsJNDPr0PsjiuZfgJ3N2C” target="_blank">Surf &amp; Turf</a> playlist (the previous campaign)
 </p>
-  </itunes:summary>
-  <description>
-<![CDATA[
-Stu Parker makes a music/business deal in the woods, Valorie Thorne meets her new boss, and Zeke Arthurs has a normal day at work. All three find themself in the center of an unusual murder scene, made stranger since the victim was already dead.
-
-Content warnings:
-Cursing
-Drugs
-Murder
-Gore
-Mentions of Sex
-
-Full vod: https://www.youtube.com/watch?v=JutU7U3_yms
-Complete Surf & Turf playlist (the previous campaign): https://www.youtube.com/watch?v=wIyI69bQl5c&list=PL_BRSNtrU-0hKsJNDPr0PsjiuZfgJ3N2C
 ]]>
 </description>
 <itunes:image href="https://github.com/MeaslyMedia/Ghosts-Town/blob/main/GT%20poster%20design%20main.jpg"/>
@@ -83,6 +84,7 @@ https://measlymedia.github.io/GhostsTown/mp3s/GTep1draft3.mp3
 
 </channel>
 </rss>
+
 
 
 
