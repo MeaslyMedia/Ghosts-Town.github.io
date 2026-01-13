@@ -6,7 +6,7 @@
 <title>Ghosts' Town</title>
 <link>https://github.com/MeaslyMedia/Ghosts-Town</link>
 <language>en-us</language>
-<atom:link href="https://PODCAST URL.com/feed.xml" rel="self" type="application/rss+xml"/>
+<atom:link href="https://github.com/MeaslyMedia/Ghosts-Town/blob/main/feed.xml" rel="self" type="application/rss+xml"/>
 <copyright>MeaslyMedia</copyright>
 <itunes:subtitle>PODCAST SUBTITLE</itunes:subtitle>
 <itunes:author>MeaslyMedia</itunes:author>
@@ -83,3 +83,4 @@ https://LOCATION OF MP3.MP3
 
 </channel>
 </rss>
+
