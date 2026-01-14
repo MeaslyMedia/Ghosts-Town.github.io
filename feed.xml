@@ -11,10 +11,10 @@
   <itunes:summary>
   TTRPG set in the finctional town of Chokepoint, BC, in the fictional year, 2009.
   </itunes:summary>
-
+  Chokepoint, British Columbia is a wet, unassuming city along Canada's Sunshine Coast. While few people pay the city much mind, it is a hotbed for the supernatural, and many souls find themselves lingering here well after they die. One fatefull 2009 fall evening, Stu Parker, Valorie Thorne, and Zeke Arthurs find themselves embroiled in a ghostly affairs beyond their pay grade. Ghosts' Town is an actual play, horror, comedy, TTRPG podcast misusing the Monster of the Week system by Evil Hat Games. 
   <itunes:keywords>Actual Play Podcast,Horror,Comedy,Monster Of The Week</itunes:keywords>
   <description>
-
+  An actual play TTRPG podcast following the supernatural mishaps of Stu Parker, Valorie Thorne, and Zeke Arthurs in the town of Chokepoint, British Columbia. It's also 2009.
   </description>
   <itunes:owner>
   <itunes:name>MeaslyMedia</itunes:name>
@@ -40,16 +40,6 @@
 <itunes:summary>
   <![CDATA[
 Stu Parker makes a music/business deal in the woods, Valorie Thorne meets her new boss, and Zeke Arthurs has a normal day at work. All three find themself in the center of an unusual murder scene, made stranger since the victim was already dead.
-
-Content warnings:
-Cursing
-Drugs
-Murder
-Gore
-Mentions of Sex
-
-Full vod: https://www.youtube.com/watch?v=JutU7U3_yms
-Complete Surf & Turf playlist (the previous campaign): https://www.youtube.com/watch?v=wIyI69bQl5c&list=PL_BRSNtrU-0hKsJNDPr0PsjiuZfgJ3N2C
 ]]> 
 </itunes:summary>
   <description>
@@ -67,14 +57,14 @@ Content warnings:<ul>
 </ul>
 </p>
 <p>
-<a href =”https://www.youtube.com/watch?v=JutU7U3_yms” target="_blank">Full vod</a>
+Full vod: https://www.youtube.com/watch?v=JutU7U3_yms
 </p>
 <p>
-Complete <a href=”https://www.youtube.com/watch?v=wIyI69bQl5c&list=PL_BRSNtrU-0hKsJNDPr0PsjiuZfgJ3N2C” target="_blank">Surf &amp; Turf</a> playlist (the previous campaign)
+Complete Surf & Turf playlist (the previous campaign): https://www.youtube.com/watch?v=wIyI69bQl5c&list=PL_BRSNtrU-0hKsJNDPr0PsjiuZfgJ3N2C
 </p>
 ]]>
 </description>
-<itunes:image href="https://measlymedia.github.io/GhostsTown/GTpodcastcoverart.jpg"/>
+<itunes:image href="https://measlymedia.github.io/GhostsTown/GT_main_art.jpg"/>
 <enclosure url="https://media.githubusercontent.com/media/MeaslyMedia/GhostsTown/refs/heads/main/mp3s/GTep1draft3.mp3" length="86229048" type="audio/mpeg"/>
 <itunes:duration>5338</itunes:duration>
 <itunes:season>1</itunes:season>
@@ -91,6 +81,7 @@ https://media.githubusercontent.com/media/MeaslyMedia/GhostsTown/refs/heads/main
 
 </channel>
 </rss>
+
 
 
 
