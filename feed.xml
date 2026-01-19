@@ -79,6 +79,56 @@ https://media.githubusercontent.com/media/MeaslyMedia/GhostsTown/refs/heads/main
 <itunes:explicit>yes</itunes:explicit>
 </item>
 
+<item>
+<link>https://measlymedia.github.io/GhostsTown</link>
+<title>RSS TEST2</title>
+<itunes:title>RSS TEST</itunes:title>
+<itunes:author>MeaslyMedia</itunes:author>
+<itunes:subtitle>
+</itunes:subtitle>
+<itunes:summary>
+  <![CDATA[
+Stu Parker makes a music/business deal in the woods, Valorie Thorne meets her new boss, and Zeke Arthurs has a normal day at work. All three find themself in the center of an unusual murder scene, made stranger since the victim was already dead.
+]]> 
+</itunes:summary>
+  <description>
+<![CDATA[
+<p>
+Stu Parker makes a music/business deal in the woods, Valorie Thorne meets her new boss, and Zeke Arthurs has a normal day at work. All three find themself in the center of an unusual murder scene, made stranger since the victim was already dead.
+</p>
+<p>
+Content warnings:<ul>
+<li>Cursing</li>
+<li>Drugs</li>
+<li>Murder</li>
+<li>Gore</li>
+<li>Mentions of Sex</li>
+</ul>
+</p>
+<p>
+Full vod: <a href="https://www.youtube.com/watch?v=JutU7U3_yms" target="_blank">https://www.youtube.com/watch?v=JutU7U3_yms</a> 
+</p>
+<p>
+Complete Surf & Turf playlist (the previous campaign): <a href="https://www.youtube.com/watch?v=wIyI69bQl5c&list=PL_BRSNtrU-0hKsJNDPr0PsjiuZfgJ3N2C" target="_blank">https://www.youtube.com/watch?v=wIyI69bQl5c&list=PL_BRSNtrU-0hKsJNDPr0PsjiuZfgJ3N2C</a>
+</p>
+<p>
+Sound effect sources: <a href="https://measlymedia.github.io/GhostsTown/sfx_sources.txt" target="_blank">https://measlymedia.github.io/GhostsTown/sfx_sources.txt</a>  
+</p>
+]]>
+</description>
+<itunes:image href="https://measlymedia.github.io/GhostsTown/GT_main_art_2.jpg"/>
+<enclosure url="https://media.githubusercontent.com/media/MeaslyMedia/GhostsTown/refs/heads/main/mp3s/GTep1draft3.mp3" length="86229048" type="audio/mpeg"/>
+<itunes:duration>5338</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>2</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<guid isPermaLink="false">
+https://media.githubusercontent.com/media/MeaslyMedia/GhostsTown/refs/heads/main/mp3s/GTep1draft3.mp3
+</guid>
+<pubDate>Tue, 13 Jan 2026 12:52:43 PDT</pubDate>
+<itunes:explicit>yes</itunes:explicit>
+</item>
+
 
 
 </channel>
