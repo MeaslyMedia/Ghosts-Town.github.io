@@ -68,7 +68,7 @@ Sound effect sources: <a href="https://measlymedia.github.io/GhostsTown/sfx_sour
 </description>
 <itunes:image href="https://measlymedia.github.io/GhostsTown/GT_main_art_2.jpg"/>
 <enclosure url="https://media.githubusercontent.com/media/MeaslyMedia/GhostsTown/refs/heads/main/mp3s/GTep1draft3.mp3" length="86061490" type="audio/mpeg"/>
-<itunes:duration>5328</itunes:duration>
+<itunes:duration>5331</itunes:duration>
 <itunes:season>1</itunes:season>
 <itunes:episode>1</itunes:episode>
 <itunes:episodeType>full</itunes:episodeType>
@@ -83,6 +83,7 @@ https://media.githubusercontent.com/media/MeaslyMedia/GhostsTown/refs/heads/main
 
 </channel>
 </rss>
+
 
 
 
